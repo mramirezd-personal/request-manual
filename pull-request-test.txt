@@ -1,0 +1,3 @@
+###Solicitud
+
+Se requiere hacer una solicitud de revisión de código para ello necesitamos un pull request
